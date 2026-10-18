@@ -1,0 +1,10 @@
+tensorflow>=2.15
+keras>=3.0
+numpy
+scipy
+scikit-image
+scikit-learn
+opencv-python
+nibabel
+pandas
+matplotlib
